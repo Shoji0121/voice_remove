@@ -1,0 +1,10 @@
+# backendディレクトリのScriptのみを無視
+backend/Script/
+
+# libディレクトリ全体を無視
+backend/lib/*
+# その他、一般的な無視対象を追加（必要に応じて）
+*.log
+*.tmp
+*.bak
+.DS_Store

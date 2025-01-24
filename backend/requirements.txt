@@ -1,0 +1,17 @@
+Flask
+Flask-Cors
+ffmpeg 
+moviepy==2.0.0.dev2 
+librosa 
+numpy 
+soundfile 
+flask 
+werkzeug 
+scikit-learn
+soundfile
+pydub
+ffmpeg-python
+joblib
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
