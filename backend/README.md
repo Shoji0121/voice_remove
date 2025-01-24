@@ -8,7 +8,7 @@ Script\active
 ## python環境構築
 
 ~~~pyhton
-pip install ffmpeg moviepy==2.0.0.dev2 librosa numpy soundfile flask werkzeug 
+pip install -r requirements.txt  
 ~~~
 
 ## FFmpegインストール
